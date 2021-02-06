@@ -32,7 +32,7 @@ _When you visit a website, the web server hosting that site could be anywhere in
 
  _Which there is an open-close tag you can put the content between them and the attributes inside the open tag which also  provide additional information about the contents of an element , look at the pooto below :_
 
- !(attribute)[http://web.simmons.edu/~grovesd/comm244/notes/week2/html-attributes.jpg]
+ ![attribute](http://web.simmons.edu/~grovesd/comm244/notes/week2/html-attributes.jpg)
 
  
  **The recap is:**
@@ -100,7 +100,19 @@ The width attribute specifies the width of the iframe in pixels
 ###### The <meta> tag allows you to supply all kinds of information about your web page.
 
 ###### Escape characters are used to include special characters in your pages such as <, >, and © 
-!(escape char)[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccess.appen.]com%2Fhc%2Fen-us%2Farticles%2F201855899-Guide-to-Using-HTML-Tags-Characters-in-Labels&psig=AOvVaw1U8IaaVTZqCA9ddUK1YMmz&ust=1612721442970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnmtrt1e4CFQAAAAAdAAAAABAI)
+![escape char](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccess.appen.com%2Fhc%2Fen-us%2Farticles%2F201855899-Guide-to-Using-HTML-Tags-Characters-in-Labels&psig=AOvVaw1U8IaaVTZqCA9ddUK1YMmz&ust=1612721442970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnmtrt1e4CFQAAAAAdAAAAABAI)
+
+
+# HTML layout 
+
+- The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
+
+- The new elements provide clearer code (compared with using multiple <div> elements).
+- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+- To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+
+
 
 # To PROCESS & Design your webpage , you must focus on : 
 
@@ -153,8 +165,20 @@ You can specify that a script should run when a specific event has occurred. For
 - An interval of time has passed
 - A web page has finished loading
 
+## What is a Script and how can i creat one ?
 
++ A script is a series of instructions that the computer can follow in order to achieve a goal.
++ Each time the script runs, it might only use a subset of all the instructions.
++ Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
++ To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task .
 
+## How do i write a Script ?
+
++ It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
+
++ The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+
++ If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
 
 
 
