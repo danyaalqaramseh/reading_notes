@@ -32,7 +32,7 @@ _When you visit a website, the web server hosting that site could be anywhere in
 
  _Which there is an open-close tag you can put the content between them and the attributes inside the open tag which also  provide additional information about the contents of an element , look at the pooto below :_
 
- ![attribute](http://web.simmons.edu/~grovesd/comm244/notes/week2/html-attributes.jpg)
+ !(attribute)[http://web.simmons.edu/~grovesd/comm244/notes/week2/html-attributes.jpg]
 
  
  **The recap is:**
@@ -67,6 +67,7 @@ Because there have been several versions of HTML, each web page should begin wit
  _for more info_ [click here](https://www.educba.com/versions-of-html/)
 
  ###### You can add comments to your code between the <!-- and --> markers.
+
  It is a good idea to add comments to your code because, no matter how familiar you are with the page at the time of writing it, when you come back to it later (or if someone else needs to look at the code), comments will make it much easier to understand.
 
 Although comments are not visible to users in the main browser window, they can be viewed by anyone who looks at the source code behind the page.
@@ -99,4 +100,79 @@ The width attribute specifies the width of the iframe in pixels
 ###### The <meta> tag allows you to supply all kinds of information about your web page.
 
 ###### Escape characters are used to include special characters in your pages such as <, >, and © 
-![escape char](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccess.appen.com%2Fhc%2Fen-us%2Farticles%2F201855899-Guide-to-Using-HTML-Tags-Characters-in-Labels&psig=AOvVaw1U8IaaVTZqCA9ddUK1YMmz&ust=1612721442970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnmtrt1e4CFQAAAAAdAAAAABAI)
+!(escape char)[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccess.appen.]com%2Fhc%2Fen-us%2Farticles%2F201855899-Guide-to-Using-HTML-Tags-Characters-in-Labels&psig=AOvVaw1U8IaaVTZqCA9ddUK1YMmz&ust=1612721442970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnmtrt1e4CFQAAAAAdAAAAABAI)
+
+# To PROCESS & Design your webpage , you must focus on : 
+
+1. _It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return._
+
+2. _Site maps allow you to plan the structure of a site._
+
+3. _Wireframes allow you to organize the information that will need to go on each page_
+
+
+4. _Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them._
+
+5. _You can differentiate between pieces of information using size, color, and style._
+
+6. _You can use grouping and similarity to help simplify the information you present._
+
+
+
+
+# Intro to JavaScript :
+
+## JavaScript make the web page more interactive by :
+
+1. **ACCESS CONTENT**
+You can use JavaScript to select any element, attribute, or text from an
+HTML page. For example:
+
++ Select the text inside all of the <hl> elements on a page
++ Select any elements that have a class attribute with a value of note
++ Find out what was entered into a text input whose id attribute has a value of email 
+
+2. **MODIFY CONTENT**
+You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
++ Add a paragraph of text after the first <hl> element
++ Change the value of class attributes to trigger new CSS rules for those elements
++ Change the size or position of an < img> element
+
+3. **PROGRAM RULES**
+You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example:
++ A gallery script could check which image a user clicked on and display a larger version of that image.
++ A mortgage calculator could collect values from a form, perform a ca lculation, and display repayments.
++ An animation could check the dimensions of the browser window and move an image to the bottom of the viewable area (also known as the viewport).
+
+4. **REACT TO EVENTS**
+You can specify that a script should run when a specific event has occurred. For example, it could be run when:
+- A button is pressed
+- A link is clicked (or tapped) on
+- A cursor hovers over an element
+- Information is added to a form
+- An interval of time has passed
+- A web page has finished loading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
