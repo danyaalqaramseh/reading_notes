@@ -100,6 +100,7 @@ The width attribute specifies the width of the iframe in pixels
 ###### The <meta> tag allows you to supply all kinds of information about your web page.
 
 ###### Escape characters are used to include special characters in your pages such as <, >, and © 
+
 ![escape char](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuccess.appen.com%2Fhc%2Fen-us%2Farticles%2F201855899-Guide-to-Using-HTML-Tags-Characters-in-Labels&psig=AOvVaw1U8IaaVTZqCA9ddUK1YMmz&ust=1612721442970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnmtrt1e4CFQAAAAAdAAAAABAI)
 
 
