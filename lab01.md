@@ -6,8 +6,8 @@ __*table of content*__
 | 201 reads                                                        | Title   |
 |----------------------------------------------------------------------------|
 |[Read01](https://danyaalqaramseh.github.io/reading_notes/class01 )| Read 01 |
-|[Read02](https://danyaalqaramseh.github.io/reading_notes/class02) | Read 02 |          
-|                                                                  | Read 03 |
+|[Read02](https://danyaalqaramseh.github.io/reading_notes/claas02) | Read 02 |          
+|[Read03](https://danyaalqaramseh.github.io/reading_notes/class03) | Read 03 |
 |                                                                  | Read 04 |          
 |                                                                  | Read 05 |
 |                                                                  | Read 06 |          
