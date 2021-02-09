@@ -8,7 +8,7 @@ __*table of content*__
 |[Read01](https://danyaalqaramseh.github.io/reading_notes/class01 )| Read 01 |
 |[Read02](https://danyaalqaramseh.github.io/reading_notes/claas02) | Read 02 |          
 |[Read03](https://danyaalqaramseh.github.io/reading_notes/class03) | Read 03 |
-|                                                                  | Read 04 |          
+|[Read04](https://danyaalqaramseh.github.io/reading_notes/class04 )| Read 04 |          
 |                                                                  | Read 05 |
 |                                                                  | Read 06 |          
 |                                                                  | Read 07 |
