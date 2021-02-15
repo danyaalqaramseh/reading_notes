@@ -11,7 +11,7 @@ __*table of content*__
 |[Read04](https://danyaalqaramseh.github.io/reading_notes/class04 )| Read 04 |          
 |[Read05](https://danyaalqaramseh.github.io/reading_notes/class05) | Read 05 |
 |[Read06](https://danyaalqaramseh.github.io/reading_notes/class06) | Read 06 |          
-|                                                                  | Read 07 |
+|[Read07](https://danyaalqaramseh.github.io/reading_notes/class07) | Read 07 |
 |                                                                  | Read 08 |           
 |                                                                  | Read 09 |
 |                                                                  | Read 10 |          
